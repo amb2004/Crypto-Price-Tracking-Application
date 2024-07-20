@@ -16,6 +16,8 @@ Interactive Charts: Visualizes price trends for each cryptocurrency, enhancing u
 
 
 
+The deployed Site link:  https://crypto-price-tracking-application.onrender.com/
+
 
 
 
@@ -25,8 +27,8 @@ To run this project locally, follow these steps:
 
 1. Install the necessary dependencies:
 
-  npm install
+      npm install
 
 2. Start the development server:
 
-  npm run dev
+      npm run dev
