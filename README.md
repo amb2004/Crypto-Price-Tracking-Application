@@ -1,8 +1,9 @@
-Crypto Price Tracking Application
+<h1>Crypto Price Tracking Application</h1>
 
-Welcome to the Crypto Price Tracking Application! This project is designed to provide real-time tracking of cryptocurrency prices, along with comprehensive search functionality and interactive charts for price trends.
+Welcome to the Crypto Price Tracking Application! 
+This project is designed to provide real-time tracking of cryptocurrency prices, along with comprehensive search functionality and interactive charts for price trends.
 
-Features
+<h2>Features</h2>
 Dynamic Frontend: Developed using React.js for real-time cryptocurrency tracking.
 
 API Integration: Utilizes the CoinGecko API to fetch current prices, 24-hour changes, and market cap for various cryptocurrencies.
@@ -16,12 +17,14 @@ Interactive Charts: Visualizes price trends for each cryptocurrency, enhancing u
 
 
 
-The deployed Site link:  https://crypto-price-tracking-application.onrender.com/
+<h3>The deployed Site link</h3>:  https://crypto-price-tracking-application.onrender.com/
 
 
 
 
-Getting Started
+
+
+<h2>Getting Started</h2>
 
 To run this project locally, follow these steps:
 
